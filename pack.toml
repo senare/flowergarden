@@ -1,0 +1,12 @@
+name = "Flowergarden"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5c260e5bd70aab6a3ba1b55df32fed95d4a539fb8862b5c1e004d396f835961a"
+
+[versions]
+fabric = "0.13.3"
+minecraft = "1.18.1"
