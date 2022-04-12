@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "216085eb41e6abce63a0b0dcfc69ca2596a8a63c48b30016c64fa4f9cd128fac"
+hash = "a2fba638de009bc90811fd1510a913bcdd090ccbb6424ccb062d882d4700c45f"
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "24597ed5da62da4985ee5b0ffe665e5bddd328f60fcebdb488b69ff3e081992a"
+hash = "0ba3d1816450df6688dd4904c0c86dde68cd13e564fe3fb0b54e8c707e0b5ba3"
 metafile = true
 
 [[files]]
